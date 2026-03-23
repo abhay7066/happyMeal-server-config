@@ -6,3 +6,4 @@ spring:
     url: jdbc:mysql://localhost:3306/userServiceDB
     username: root
     password: root
+
